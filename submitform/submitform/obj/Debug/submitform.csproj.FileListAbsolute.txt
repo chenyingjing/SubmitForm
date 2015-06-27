@@ -1,0 +1,6 @@
+G:\MyDD1\lianxi\SubmitForm\submitform\submitform\bin\submitform.dll.config
+G:\MyDD1\lianxi\SubmitForm\submitform\submitform\bin\submitform.dll
+G:\MyDD1\lianxi\SubmitForm\submitform\submitform\bin\submitform.pdb
+G:\MyDD1\lianxi\SubmitForm\submitform\submitform\obj\Debug\submitform.csprojResolveAssemblyReference.cache
+G:\MyDD1\lianxi\SubmitForm\submitform\submitform\obj\Debug\submitform.dll
+G:\MyDD1\lianxi\SubmitForm\submitform\submitform\obj\Debug\submitform.pdb

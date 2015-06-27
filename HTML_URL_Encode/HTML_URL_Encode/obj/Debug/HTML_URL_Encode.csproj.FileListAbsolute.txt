@@ -1,0 +1,9 @@
+G:\MyDD1\lianxi\SubmitForm\HTML_URL_Encode\HTML_URL_Encode\bin\Debug\HTML_URL_Encode.exe.config
+G:\MyDD1\lianxi\SubmitForm\HTML_URL_Encode\HTML_URL_Encode\bin\Debug\HTML_URL_Encode.exe
+G:\MyDD1\lianxi\SubmitForm\HTML_URL_Encode\HTML_URL_Encode\bin\Debug\HTML_URL_Encode.pdb
+G:\MyDD1\lianxi\SubmitForm\HTML_URL_Encode\HTML_URL_Encode\obj\Debug\HTML_URL_Encode.csprojResolveAssemblyReference.cache
+G:\MyDD1\lianxi\SubmitForm\HTML_URL_Encode\HTML_URL_Encode\obj\Debug\HTML_URL_Encode.Form1.resources
+G:\MyDD1\lianxi\SubmitForm\HTML_URL_Encode\HTML_URL_Encode\obj\Debug\HTML_URL_Encode.Properties.Resources.resources
+G:\MyDD1\lianxi\SubmitForm\HTML_URL_Encode\HTML_URL_Encode\obj\Debug\HTML_URL_Encode.csproj.GenerateResource.Cache
+G:\MyDD1\lianxi\SubmitForm\HTML_URL_Encode\HTML_URL_Encode\obj\Debug\HTML_URL_Encode.exe
+G:\MyDD1\lianxi\SubmitForm\HTML_URL_Encode\HTML_URL_Encode\obj\Debug\HTML_URL_Encode.pdb
